@@ -1,3 +1,7 @@
+# :warning: Archived :warning:
+This repository has been archived.
+v0.2.0 was merged into [LDMX-Software/ldmx-sw](https://github.com/LDMX-Software/ldmx-sw) as a subdirectory where development continues.
+
 # MagFieldMap
 Magnetic field maps for LDMX detectors
 
